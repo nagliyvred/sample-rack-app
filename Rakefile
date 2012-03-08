@@ -1,4 +1,4 @@
 namespace :db do
-  task(:migrate)
-  task(:setup)
+  task :migrate
+  task :setup
 end

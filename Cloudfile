@@ -1,0 +1,13 @@
+rack-test:
+  ruby_version: 1.9.2 # 1.9.2 or ree
+  environment: production # RAILS_ENV
+  monitoring_email: wijet@wijet.pl
+  domains:
+    - rack-test.shellyapp.com
+  servers:
+    app1:
+      size: small
+      thin: 2
+      # whenever: on
+      # delayed_job: 1
+

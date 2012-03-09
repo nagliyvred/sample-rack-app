@@ -1,6 +1,6 @@
 # Sample rack-based application
 
-Sample rack based application which can be easily deployed to shellycloud.com
+Sample rack based application which can be easily deployed to [Shelly Cloud](https://shellycloud.com)
 
 ---
 
